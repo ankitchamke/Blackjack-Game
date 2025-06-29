@@ -1,4 +1,4 @@
-# 🃏 Blackjack Game - Day 22 of #100DaysOfCode
+# 🃏 Blackjack Game -[ 🔗Live ](https://blackjack-day-22.netlify.app/)- Day 22 of #100DaysOfCode
 
 This is a simple **Blackjack game** built using **JavaScript** as part of my [#100DaysOfCode](https://github.com/ankitchamke/100-days-of-code) challenge.
 
